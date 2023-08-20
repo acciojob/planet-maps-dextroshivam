@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.image-div{
+            width: 90%;
+            height: 300px;
+        }
+        img{
+            width: 100%;
+        }
